@@ -1,4 +1,5 @@
-# NIRScan Nano Project Description
+# Fork of original
+# NIRScan Nano Project
 
 The purpose of this project is to provide the simplest possible template for developers to create their own native Android app for communicating with the Texas Instruments' NIRScan Nano Product.
 
